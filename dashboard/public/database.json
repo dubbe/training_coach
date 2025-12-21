@@ -1,0 +1,1437 @@
+[
+  {
+    "id": "2025-12-18-Afternoon-Run",
+    "date": "2025-12-18",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "0.54 km",
+      "rörelsetid": "00:09:27",
+      "medeltempo": "17:28 min/km",
+      "medelpuls": "139.5 bpm",
+      "maxpuls": "168 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-12-18-Träningspass-2025-12-18:-Överkropp-och-Plyo",
+    "date": "2025-12-18",
+    "title": "Träningspass 2025-12-18: Överkropp och Plyo",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Box Jump",
+        "sets": [
+          "1: 5 reps (0.5m) (YR!)",
+          "2: 5 reps (0.5m)",
+          "3: 5 reps (0.5m)"
+        ]
+      },
+      {
+        "name": "Lateral Jump",
+        "sets": [
+          "1: 10 reps (PR!)",
+          "2: 10 reps",
+          "3: 10 reps"
+        ]
+      },
+      {
+        "name": "Styrketräning",
+        "sets": []
+      },
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 10 reps @ 20 kg (YR!)",
+          "2: 5 reps @ 40 kg",
+          "3: 3 reps @ 50 kg",
+          "4: 1 rep @ 60 kg",
+          "5: 1 rep @ 67 kg (PR!)",
+          "6: 1 rep @ 70 kg (PR!)",
+          "7: 1 rep @ 72 kg (PR!)",
+          "8: 1 rep @ 75 kg"
+        ]
+      },
+      {
+        "name": "Barbell Row",
+        "sets": [
+          "1: 8 reps @ 55 kg (PR!)",
+          "2: 8 reps @ 55 kg",
+          "3: 8 reps @ 55 kg"
+        ]
+      },
+      {
+        "name": "Cable Horizontal Wood Chop",
+        "sets": [
+          "1: 10 reps @ 10 kg (PR!)",
+          "2: 10 reps @ 10 kg",
+          "3: 10 reps @ 10 kg"
+        ]
+      },
+      {
+        "name": "Löpning (Uppvärmning)",
+        "sets": []
+      },
+      {
+        "name": "Löpning (Intervaller)",
+        "sets": []
+      }
+    ]
+  },
+  {
+    "id": "2025-12-15-Fotboll",
+    "date": "2025-12-15",
+    "title": "Fotbollsträning",
+    "type": "Fotboll",
+    "metrics": {
+      "starttid_(utc)": "2025-12-15T17:32:11Z",
+      "varaktighet": "1:41:10",
+      "kalorier": "928 kcal",
+      "medelpuls": "123 bpm",
+      "maxpuls": "159 bpm"
+    }
+  },
+  {
+    "id": "2025-12-14-Afternoon-Run",
+    "date": "2025-12-14",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.10 km",
+      "rörelsetid": "00:15:18",
+      "medeltempo": "7:16 min/km",
+      "medelpuls": "146.1 bpm",
+      "maxpuls": "162 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-12-14-Intermediate-Barbell-Program:-Lower-Body-Workout-B",
+    "date": "2025-12-14",
+    "title": "Intermediate Barbell Program: Lower-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": [
+          "1: 5 reps @ 70 kg",
+          "2: 5 reps @ 105 kg",
+          "3: 5 reps @ 105 kg",
+          "4: 5 reps @ 105 kg"
+        ]
+      },
+      {
+        "name": "Front Squat",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 73 kg",
+          "4: 5 reps @ 73 kg",
+          "5: 5 reps @ 73 kg"
+        ]
+      },
+      {
+        "name": "Good Morning",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 55 kg",
+          "3: 5 reps @ 55 kg",
+          "4: 5 reps @ 55 kg"
+        ]
+      },
+      {
+        "name": "Lying Leg Raise",
+        "sets": [
+          "1: 15 reps @ bodyweight",
+          "2: 15 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12-13-Intermediate-Barbell-Program:-Upper-Body-Workout-B",
+    "date": "2025-12-13",
+    "title": "Intermediate Barbell Program: Upper-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 30 kg",
+          "3: 5 reps @ 40 kg",
+          "4: 5 reps @ 45 kg",
+          "5: 5 reps @ 45 kg",
+          "6: 5 reps @ 45 kg"
+        ]
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          "1: 10 reps @ 30 kg",
+          "2: 12 reps @ 45 kg",
+          "3: 9 reps @ 45 kg",
+          "4: 7 reps @ 45 kg"
+        ]
+      },
+      {
+        "name": "Close-Grip Bench Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 52 kg",
+          "4: 5 reps @ 52 kg",
+          "5: 5 reps @ 52 kg"
+        ]
+      },
+      {
+        "name": "Barbell Curl",
+        "sets": [
+          "1: 7 reps @ 32 kg",
+          "2: 10 reps @ 30 kg",
+          "3: 6 reps @ 30 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12-11-Night-Run",
+    "date": "2025-12-11",
+    "title": "Night Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "4.22 km",
+      "rörelsetid": "00:30:26",
+      "medeltempo": "7:13 min/km",
+      "medelpuls": "141.7 bpm",
+      "maxpuls": "150 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-12-07-Intermediate-Barbell-Program:-Lower-Body-Workout-A",
+    "date": "2025-12-07",
+    "title": "Intermediate Barbell Program: Lower-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Squat",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 60 kg",
+          "4: 5 reps @ 85 kg",
+          "5: 5 reps @ 85 kg",
+          "6: 5 reps @ 85 kg"
+        ]
+      },
+      {
+        "name": "Power Clean",
+        "sets": [
+          "1: 3 reps @ 20 kg",
+          "2: 3 reps @ 30 kg",
+          "3: 3 reps @ 40 kg",
+          "4: 3 reps @ 50 kg",
+          "5: 3 reps @ 60 kg",
+          "6: 3 reps @ 60 kg",
+          "7: 3 reps @ 60 kg"
+        ]
+      },
+      {
+        "name": "Bulgarian Split Squat",
+        "sets": [
+          "1: 10 reps @ 25 kg",
+          "2: 10 reps @ 25 kg",
+          "3: 10 reps @ 25 kg"
+        ]
+      },
+      {
+        "name": "Sit-Up",
+        "sets": [
+          "1: 25 reps @ bodyweight",
+          "2: 20 reps @ bodyweight",
+          "3: 15 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12-06-Afternoon-Run",
+    "date": "2025-12-06",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "4.00 km",
+      "rörelsetid": "00:30:00",
+      "medeltempo": "7:30 min/km",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-12-06-Intermediate-Barbell-Program:-Upper-Body-Workout-A",
+    "date": "2025-12-06",
+    "title": "Intermediate Barbell Program: Upper-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 60 kg",
+          "4: 5 reps @ 60 kg",
+          "5: 5 reps @ 60 kg"
+        ]
+      },
+      {
+        "name": "Barbell Row",
+        "sets": [
+          "1: 5 reps @ 55 kg",
+          "2: 5 reps @ 55 kg",
+          "3: 5 reps @ 55 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "sets": [
+          "1: 8 reps @ 12 kg",
+          "2: 8 reps @ 12 kg",
+          "3: 8 reps @ 12 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Row",
+        "sets": [
+          "1: 10 reps @ 25 kg",
+          "2: 10 reps @ 25 kg",
+          "3: 10 reps @ 25 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12-04-Evening-Run",
+    "date": "2025-12-04",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.00 km",
+      "rörelsetid": "00:36:01",
+      "medeltempo": "7:12 min/km",
+      "medelpuls": "158.2 bpm",
+      "maxpuls": "181 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-12-02-Intermediate-Barbell-Program:-Lower-Body-Workout-B",
+    "date": "2025-12-02",
+    "title": "Intermediate Barbell Program: Lower-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 70 kg",
+          "3: 5 reps @ 100 kg",
+          "4: 5 reps @ 100 kg",
+          "5: 5 reps @ 100 kg"
+        ]
+      },
+      {
+        "name": "Front Squat",
+        "sets": [
+          "1: 5 reps @ 50 kg",
+          "2: 5 reps @ 70 kg",
+          "3: 5 reps @ 70 kg",
+          "4: 5 reps @ 70 kg"
+        ]
+      },
+      {
+        "name": "Good Morning",
+        "sets": [
+          "1: 5 reps @ 50 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 50 kg"
+        ]
+      },
+      {
+        "name": "Lying Leg Raise",
+        "sets": [
+          "1: 16 reps @ bodyweight",
+          "2: 17 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-12-01-Night-Run",
+    "date": "2025-12-01",
+    "title": "Night Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.00 km",
+      "rörelsetid": "00:33:44",
+      "medeltempo": "6:45 min/km",
+      "medelpuls": "160.4 bpm",
+      "maxpuls": "174 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-11-30-Intermediate-Barbell-Program:-Upper-Body-Workout-B",
+    "date": "2025-11-30",
+    "title": "Intermediate Barbell Program: Upper-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "sets": [
+          "1: 8 reps @ 20 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 43 kg",
+          "4: 5 reps @ 43 kg",
+          "5: 5 reps @ 43 kg"
+        ]
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          "1: 10 reps @ 35 kg",
+          "2: 10 reps @ 40 kg",
+          "3: 5 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Close-Grip Bench Press",
+        "sets": [
+          "1: 5 reps @ 40 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 50 kg",
+          "4: 5 reps @ 50 kg"
+        ]
+      },
+      {
+        "name": "Barbell Curl",
+        "sets": [
+          "1: 10 reps @ 30 kg",
+          "2: 10 reps @ 30 kg",
+          "3: 4 reps @ 30 kg"
+        ]
+      },
+      {
+        "name": "Plank",
+        "sets": [
+          "1: 00:01:11 @ bodyweight",
+          "2: 00:01:41 @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-24-Intermediate-Barbell-Program:-Lower-Body-Workout-A",
+    "date": "2025-11-24",
+    "title": "Intermediate Barbell Program: Lower-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Squat",
+        "sets": [
+          "1: 5 reps @ 35 kg",
+          "2: 5 reps @ 70 kg",
+          "3: 5 reps @ 80 kg",
+          "4: 5 reps @ 80 kg",
+          "5: 5 reps @ 80 kg"
+        ]
+      },
+      {
+        "name": "Power Clean",
+        "sets": [
+          "1: 3 reps @ 20 kg",
+          "2: 3 reps @ 30 kg",
+          "3: 3 reps @ 50 kg",
+          "4: 3 reps @ 50 kg",
+          "5: 3 reps @ 50 kg"
+        ]
+      },
+      {
+        "name": "Bulgarian Split Squat",
+        "sets": [
+          "1: 8 reps @ 25 kg",
+          "2: 10 reps @ 25 kg",
+          "3: 10 reps @ 25 kg"
+        ]
+      },
+      {
+        "name": "Medicine Ball Sit-Up Toss",
+        "sets": [
+          "1: 15 reps @ 10 kg",
+          "2: 15 reps @ 10 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-20-Lunch-Run",
+    "date": "2025-11-20",
+    "title": "Lunch Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.90 km",
+      "rörelsetid": "00:20:25",
+      "medeltempo": "7:02 min/km",
+      "medelpuls": "152.8 bpm",
+      "maxpuls": "166 bpm"
+    }
+  },
+  {
+    "id": "2025-11-19-Intermediate-Barbell-Program:-Upper-Body-Workout-A",
+    "date": "2025-11-19",
+    "title": "Intermediate Barbell Program: Upper-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 5 reps @ 40 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 55 kg",
+          "4: 5 reps @ 55 kg",
+          "5: 5 reps @ 55 kg"
+        ]
+      },
+      {
+        "name": "Barbell Row",
+        "sets": [
+          "1: 5 reps @ 50 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 50 kg",
+          "4: 5 reps @ 50 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "sets": [
+          "1: 8 reps @ 10 kg",
+          "2: 8 reps @ 10 kg",
+          "3: 8 reps @ 10 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Row",
+        "sets": [
+          "1: 10 reps @ 20 kg",
+          "2: 10 reps @ 20 kg",
+          "3: 10 reps @ 20 kg"
+        ]
+      },
+      {
+        "name": "Dragon Flag",
+        "sets": [
+          "1: 5 reps @ bodyweight",
+          "2: 3 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-18-Afternoon-Run",
+    "date": "2025-11-18",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.04 km",
+      "rörelsetid": "00:15:21",
+      "medeltempo": "7:31 min/km",
+      "medelpuls": "157.3 bpm",
+      "maxpuls": "164 bpm",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-11-18-Intermediate-Barbell-Program:-Lower-Body-Workout-B",
+    "date": "2025-11-18",
+    "title": "Intermediate Barbell Program: Lower-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": [
+          "1: 5 reps @ 70 kg",
+          "2: 5 reps @ 90 kg",
+          "3: 5 reps @ 95 kg",
+          "4: 5 reps @ 95 kg"
+        ]
+      },
+      {
+        "name": "Front Squat",
+        "sets": [
+          "1: 5 reps @ 60 kg",
+          "2: 5 reps @ 65 kg",
+          "3: 5 reps @ 65 kg"
+        ]
+      },
+      {
+        "name": "Good Morning",
+        "sets": [
+          "1: 5 reps @ 40 kg",
+          "2: 5 reps @ 45 kg",
+          "3: 5 reps @ 45 kg"
+        ]
+      },
+      {
+        "name": "Machine Lat Pulldown",
+        "sets": [
+          "1: 8 reps @ 40 kg",
+          "2: 0 reps @ 40 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-09-Afternoon-Run",
+    "date": "2025-11-09",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "1.55 km",
+      "rörelsetid": "00:16:17",
+      "medeltempo": "10:31 min/km",
+      "stigning": "11.2 m",
+      "medelpuls": "151.6 bpm",
+      "maxpuls": "171 bpm",
+      "kalorier_(kcal)": "37 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-11-06-Intermediate-Barbell-Program:-Upper-Body-Workout-B",
+    "date": "2025-11-06",
+    "title": "Intermediate Barbell Program: Upper-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 40 kg",
+          "4: 5 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Pull-Up",
+        "sets": [
+          "1: 0 reps @ bodyweight",
+          "2: 0 reps @ bodyweight",
+          "3: 0 reps @ bodyweight"
+        ]
+      },
+      {
+        "name": "Close-Grip Bench Press",
+        "sets": [
+          "1: 2 reps @ 40 kg",
+          "2: 5 reps @ 47 kg",
+          "3: 5 reps @ 47 kg",
+          "4: 5 reps @ 47 kg"
+        ]
+      },
+      {
+        "name": "Barbell Curl",
+        "sets": [
+          "1: 10 reps @ 27 kg",
+          "2: 10 reps @ 27 kg",
+          "3: 5 reps @ 27 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-04-Evening-Run",
+    "date": "2025-11-04",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "1.26 km",
+      "rörelsetid": "00:11:41",
+      "medeltempo": "9:17 min/km",
+      "stigning": "30.3 m",
+      "medelpuls": "119.4 bpm",
+      "maxpuls": "140 bpm",
+      "kalorier_(kcal)": "30 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-11-02-Intermediate-Barbell-Program:-Lower-Body-Workout-A",
+    "date": "2025-11-02",
+    "title": "Intermediate Barbell Program: Lower-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Squat",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 70 kg",
+          "3: 5 reps @ 70 kg",
+          "4: 5 reps @ 70 kg"
+        ]
+      },
+      {
+        "name": "Power Clean",
+        "sets": [
+          "1: 5 reps @ 45 kg",
+          "2: 3 reps @ 45 kg",
+          "3: 3 reps @ 45 kg"
+        ]
+      },
+      {
+        "name": "Bulgarian Split Squat",
+        "sets": [
+          "1: 8 reps @ 20 kg",
+          "2: 10 reps @ 20 kg",
+          "3: 10 reps @ 20 kg"
+        ]
+      },
+      {
+        "name": "Sit-Up",
+        "sets": [
+          "1: 10 reps @ bodyweight + 20 kg",
+          "2: 10 reps @ bodyweight + 20 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-11-01-Lunch-Run",
+    "date": "2025-11-01",
+    "title": "Lunch Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "1.44 km",
+      "rörelsetid": "00:14:11",
+      "medeltempo": "9:49 min/km",
+      "stigning": "13.5 m",
+      "medelpuls": "127.8 bpm",
+      "maxpuls": "146 bpm",
+      "kalorier_(kcal)": "34 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-11-01-Morning-Run",
+    "date": "2025-11-01",
+    "title": "Morning Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.13 km",
+      "rörelsetid": "00:29:18",
+      "medeltempo": "5:43 min/km",
+      "stigning": "31.1 m",
+      "medelpuls": "164.1 bpm",
+      "maxpuls": "179 bpm",
+      "kalorier_(kcal)": "126 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-29-Evening-Run",
+    "date": "2025-10-29",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.14 km",
+      "rörelsetid": "00:31:03",
+      "medeltempo": "6:02 min/km",
+      "stigning": "28.5 m",
+      "medelpuls": "161.4 bpm",
+      "maxpuls": "173 bpm",
+      "kalorier_(kcal)": "135 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-29-Intermediate-Barbell-Program:-Upper-Body-Workout-A",
+    "date": "2025-10-29",
+    "title": "Intermediate Barbell Program: Upper-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 45 kg",
+          "3: 5 reps @ 50 kg",
+          "4: 5 reps @ 52 kg"
+        ]
+      },
+      {
+        "name": "Barbell Row",
+        "sets": [
+          "1: 5 reps @ 40 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "sets": [
+          "1: 8 reps @ 7 kg",
+          "2: 8 reps @ 7 kg",
+          "3: 8 reps @ 7 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Row",
+        "sets": [
+          "1: 10 reps @ 15 kg",
+          "2: 10 reps @ 15 kg",
+          "3: 10 reps @ 15 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-26-Intermediate-Barbell-Program:-Lower-Body-Workout-B",
+    "date": "2025-10-26",
+    "title": "Intermediate Barbell Program: Lower-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": [
+          "1: 5 reps @ 60 kg",
+          "2: 5 reps @ 80 kg",
+          "3: 5 reps @ 80 kg",
+          "4: 5 reps @ 85 kg"
+        ]
+      },
+      {
+        "name": "Front Squat",
+        "sets": [
+          "1: 5 reps @ 40 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 50 kg"
+        ]
+      },
+      {
+        "name": "Good Morning",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 30 kg",
+          "3: 5 reps @ 30 kg"
+        ]
+      },
+      {
+        "name": "Hanging Knee Raise",
+        "sets": [
+          "1: 3 reps @ bodyweight",
+          "2: 7 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-26-Morning-Run",
+    "date": "2025-10-26",
+    "title": "Morning Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "3.01 km",
+      "rörelsetid": "00:28:47",
+      "medeltempo": "9:34 min/km",
+      "stigning": "14.0 m",
+      "medelpuls": "132.0 bpm",
+      "maxpuls": "149 bpm",
+      "kalorier_(kcal)": "69 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-25-Intermediate-Barbell-Program:-Upper-Body-Workout-B",
+    "date": "2025-10-25",
+    "title": "Intermediate Barbell Program: Upper-Body Workout B",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Overhead Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 30 kg",
+          "3: 5 reps @ 35 kg",
+          "4: 5 reps @ 37.5 kg"
+        ]
+      },
+      {
+        "name": "Pull-Up",
+        "sets": [
+          "1: 3 reps @ bodyweight",
+          "2: 3 reps @ bodyweight",
+          "3: 3 reps @ bodyweight"
+        ]
+      },
+      {
+        "name": "Close-Grip Bench Press",
+        "sets": [
+          "1: 5 reps @ 30 kg",
+          "2: 5 reps @ 40 kg",
+          "3: 5 reps @ 45 kg"
+        ]
+      },
+      {
+        "name": "Barbell Curl",
+        "sets": [
+          "1: 10 reps @ 20 kg",
+          "2: 10 reps @ 25 kg",
+          "3: 10 reps @ 25 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-24-Intermediate-Barbell-Program:-Lower-Body-Workout-A",
+    "date": "2025-10-24",
+    "title": "Intermediate Barbell Program: Lower-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Squat",
+        "sets": [
+          "1: 5 reps @ 30 kg",
+          "2: 5 reps @ 50 kg",
+          "3: 5 reps @ 60 kg",
+          "4: 5 reps @ 60 kg"
+        ]
+      },
+      {
+        "name": "Power Clean",
+        "sets": [
+          "1: 3 reps @ 30 kg",
+          "2: 3 reps @ 40 kg",
+          "3: 3 reps @ 40 kg",
+          "4: 3 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Bulgarian Split Squat",
+        "sets": [
+          "1: 10 reps @ 12 kg",
+          "2: 10 reps @ 12 kg",
+          "3: 10 reps @ 12 kg"
+        ]
+      },
+      {
+        "name": "Cable Crunch",
+        "sets": [
+          "1: 12 reps @ 25 kg",
+          "2: 12 reps @ 25 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-19-Intermediate-Barbell-Program:-Upper-Body-Workout-A",
+    "date": "2025-10-19",
+    "title": "Intermediate Barbell Program: Upper-Body Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 30 kg",
+          "3: 5 reps @ 40 kg",
+          "4: 5 reps @ 40 kg",
+          "5: 5 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Barbell Row",
+        "sets": [
+          "1: 5 reps @ 20 kg",
+          "2: 5 reps @ 30 kg",
+          "3: 5 reps @ 30 kg",
+          "4: 5 reps @ 30 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "sets": [
+          "1: 8 reps @ 5 kg",
+          "2: 8 reps @ 5 kg",
+          "3: 8 reps @ 5 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Row",
+        "sets": [
+          "1: 10 reps @ 10 kg",
+          "2: 10 reps @ 10 kg",
+          "3: 10 reps @ 10 kg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2025-10-17-Afternoon-Run",
+    "date": "2025-10-17",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.46 km",
+      "rörelsetid": "00:34:13",
+      "medeltempo": "6:16 min/km",
+      "stigning": "15.0 m",
+      "medelpuls": "158.2 bpm",
+      "maxpuls": "169 bpm",
+      "kalorier_(kcal)": "137 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-15-Evening-Run",
+    "date": "2025-10-15",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "1.30 km",
+      "rörelsetid": "00:14:33",
+      "medeltempo": "11:11 min/km",
+      "stigning": "11.9 m",
+      "medelpuls": "109.9 bpm",
+      "maxpuls": "127 bpm",
+      "kalorier_(kcal)": "30 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-14-Afternoon-Run",
+    "date": "2025-10-14",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.12 km",
+      "rörelsetid": "00:29:49",
+      "medeltempo": "5:49 min/km",
+      "stigning": "31.3 m",
+      "kalorier_(kcal)": "133 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-08-Evening-Run",
+    "date": "2025-10-08",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "1.54 km",
+      "rörelsetid": "00:14:21",
+      "medeltempo": "9:19 min/km",
+      "stigning": "13.5 m",
+      "medelpuls": "120.1 bpm",
+      "maxpuls": "140 bpm",
+      "kalorier_(kcal)": "36 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-10-06-Afternoon-Run",
+    "date": "2025-10-06",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.86 km",
+      "rörelsetid": "00:28:03",
+      "medeltempo": "9:48 min/km",
+      "stigning": "27.8 m",
+      "medelpuls": "119.9 bpm",
+      "maxpuls": "145 bpm",
+      "kalorier_(kcal)": "68 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-27-Evening-Run",
+    "date": "2025-09-27",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "7.01 km",
+      "rörelsetid": "00:46:41",
+      "medeltempo": "6:39 min/km",
+      "stigning": "39.8 m",
+      "medelpuls": "151.8 bpm",
+      "maxpuls": "163 bpm",
+      "kalorier_(kcal)": "184 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-24-Evening-Run",
+    "date": "2025-09-24",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "6.45 km",
+      "rörelsetid": "00:41:28",
+      "medeltempo": "6:25 min/km",
+      "stigning": "39.6 m",
+      "medelpuls": "153.4 bpm",
+      "maxpuls": "174 bpm",
+      "kalorier_(kcal)": "167 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-22-Evening-Run",
+    "date": "2025-09-22",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "6.00 km",
+      "rörelsetid": "00:41:59",
+      "medeltempo": "7:00 min/km",
+      "stigning": "56.0 m",
+      "medelpuls": "148.0 bpm",
+      "maxpuls": "159 bpm",
+      "kalorier_(kcal)": "161 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-21-Afternoon-Run",
+    "date": "2025-09-21",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "6.00 km",
+      "rörelsetid": "00:37:58",
+      "medeltempo": "6:19 min/km",
+      "stigning": "69.1 m",
+      "medelpuls": "155.5 bpm",
+      "maxpuls": "172 bpm",
+      "kalorier_(kcal)": "159 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-17-Afternoon-Run",
+    "date": "2025-09-17",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.08 km",
+      "rörelsetid": "00:21:17",
+      "medeltempo": "10:13 min/km",
+      "stigning": "8.5 m",
+      "medelpuls": "110.7 bpm",
+      "maxpuls": "136 bpm",
+      "kalorier_(kcal)": "49 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-17-Evening-Run",
+    "date": "2025-09-17",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.80 km",
+      "rörelsetid": "00:39:52",
+      "medeltempo": "6:52 min/km",
+      "stigning": "16.6 m",
+      "medelpuls": "151.1 bpm",
+      "maxpuls": "182 bpm",
+      "kalorier_(kcal)": "150 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-15-Evening-Run",
+    "date": "2025-09-15",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.14 km",
+      "rörelsetid": "00:37:07",
+      "medeltempo": "7:13 min/km",
+      "stigning": "29.6 m",
+      "medelpuls": "142.3 bpm",
+      "maxpuls": "156 bpm",
+      "kalorier_(kcal)": "139 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-07-Morning-Run",
+    "date": "2025-09-07",
+    "title": "Morning Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "7.99 km",
+      "rörelsetid": "00:51:08",
+      "medeltempo": "6:24 min/km",
+      "stigning": "84.1 m",
+      "medelpuls": "156.8 bpm",
+      "maxpuls": "172 bpm",
+      "kalorier_(kcal)": "207 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-09-06-Afternoon-Run",
+    "date": "2025-09-06",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "5.50 km",
+      "rörelsetid": "00:35:59",
+      "medeltempo": "6:32 min/km",
+      "stigning": "36.2 m",
+      "medelpuls": "152.4 bpm",
+      "maxpuls": "164 bpm",
+      "kalorier_(kcal)": "143 kcal",
+      "utrustning": "Adidas Supernova Supernova"
+    }
+  },
+  {
+    "id": "2025-08-21-Lunch-Run",
+    "date": "2025-08-21",
+    "title": "Lunch Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "4.19 km",
+      "rörelsetid": "00:31:27",
+      "medeltempo": "7:30 min/km",
+      "stigning": "49.8 m",
+      "medelpuls": "138.9 bpm",
+      "maxpuls": "158 bpm",
+      "kalorier_(kcal)": "109 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-08-14-Evening-Run",
+    "date": "2025-08-14",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.02 km",
+      "rörelsetid": "00:13:59",
+      "medeltempo": "6:55 min/km",
+      "stigning": "14.2 m",
+      "medelpuls": "145.8 bpm",
+      "maxpuls": "154 bpm",
+      "kalorier_(kcal)": "56 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-08-10-Lunch-Run",
+    "date": "2025-08-10",
+    "title": "Lunch Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "2.33 km",
+      "rörelsetid": "00:23:13",
+      "medeltempo": "9:56 min/km",
+      "stigning": "19.4 m",
+      "medelpuls": "123.2 bpm",
+      "maxpuls": "145 bpm",
+      "kalorier_(kcal)": "58 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-08-03-Evening-Run",
+    "date": "2025-08-03",
+    "title": "Evening Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "4.19 km",
+      "rörelsetid": "00:31:10",
+      "medeltempo": "7:25 min/km",
+      "stigning": "65.8 m",
+      "medelpuls": "150.5 bpm",
+      "maxpuls": "162 bpm",
+      "kalorier_(kcal)": "101 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-07-19-Afternoon-Run",
+    "date": "2025-07-19",
+    "title": "Afternoon Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "6.71 km",
+      "rörelsetid": "00:49:37",
+      "medeltempo": "7:23 min/km",
+      "stigning": "76.9 m",
+      "medelpuls": "144.9 bpm",
+      "maxpuls": "179 bpm",
+      "kalorier_(kcal)": "155 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-07-16-Lunch-Run",
+    "date": "2025-07-16",
+    "title": "Lunch Run",
+    "type": "Löpning",
+    "metrics": {
+      "distans": "4.18 km",
+      "rörelsetid": "00:26:35",
+      "medeltempo": "6:20 min/km",
+      "stigning": "55.2 m",
+      "medelpuls": "156.8 bpm",
+      "maxpuls": "172 bpm",
+      "kalorier_(kcal)": "97 kcal",
+      "utrustning": "Adidas LightMotion"
+    }
+  },
+  {
+    "id": "2025-01-08-Basic-Strength-Training-Program-for-Runners:-Workout-2",
+    "date": "2025-01-08",
+    "title": "Basic Strength Training Program for Runners: Workout 2",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Deadlift",
+        "sets": [
+          "1: 10 reps @ 40 kg",
+          "2: 8 reps @ 50 kg",
+          "3: 6 reps @ 70 kg",
+          "4: 5 reps @ 75 kg",
+          "5: 5 reps @ 80 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Lunge",
+        "sets": [
+          "1: 10 reps",
+          "2: 8 reps @ 7 kg",
+          "3: 8 reps @ 10 kg",
+          "4: 6 reps @ 10 kg",
+          "5: 6 reps @ 10 kg"
+        ]
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          "1: 10 reps @ 17 kg",
+          "2: 8 reps @ 25 kg",
+          "3: 8 reps @ 25 kg",
+          "4: 6 reps @ 27 kg",
+          "5: 6 reps @ 33 kg"
+        ]
+      },
+      {
+        "name": "Overhead Press",
+        "sets": [
+          "1: 10 reps @ 20 kg",
+          "2: 8 reps @ 30 kg",
+          "3: 8 reps @ 30 kg",
+          "4: 6 reps @ 20 kg",
+          "5: 6 reps @ 25 kg"
+        ]
+      },
+      {
+        "name": "Hip Thrust",
+        "sets": [
+          "1: 8 reps @ 10 kg",
+          "2: 8 reps @ 20 kg",
+          "3: 6 reps @ 30 kg",
+          "4: 6 reps @ 35 kg"
+        ]
+      },
+      {
+        "name": "Hanging Knee Raise",
+        "sets": [
+          "1: 4 reps @ bodyweight",
+          "2: 0 reps @ bodyweight",
+          "3: 0 reps @ bodyweight",
+          "4: 0 reps @ bodyweight"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2024-12-22-StrengthLog's-Training-Program-for-Children-and-Adolescents:-Workout-A",
+    "date": "2024-12-22",
+    "title": "StrengthLog's Training Program for Children and Adolescents: Workout A",
+    "type": "Styrka",
+    "exercises": [
+      {
+        "name": "Barbell Lunge",
+        "sets": [
+          "1: 10 reps @ 10 kg",
+          "2: 10 reps @ 15 kg"
+        ]
+      },
+      {
+        "name": "Box Jump",
+        "sets": [
+          "1: 10 reps (0.5 m box)",
+          "2: 10 reps (0.5 m box)"
+        ]
+      },
+      {
+        "name": "Bench Press",
+        "sets": [
+          "1: 10 reps @ 30 kg",
+          "2: 10 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          "1: 10 reps @ 37 kg",
+          "2: 10 reps @ 40 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Row",
+        "sets": [
+          "1: 10 reps @ 7 kg",
+          "2: 10 reps @ 10 kg"
+        ]
+      },
+      {
+        "name": "Floor Back Extension",
+        "sets": [
+          "1: 10 reps",
+          "2: 10 reps"
+        ]
+      },
+      {
+        "name": "Tricep Pushdown With Bar",
+        "sets": [
+          "1: 10 reps @ 25 kg",
+          "2: 10 reps @ 20 kg"
+        ]
+      },
+      {
+        "name": "Dumbbell Curl",
+        "sets": [
+          "1: 10 reps @ 7 kg",
+          "2: 10 reps @ 10 kg"
+        ]
+      },
+      {
+        "name": "Lying Leg Raise",
+        "sets": [
+          "1: 10 reps",
+          "2: 10 reps"
+        ]
+      },
+      {
+        "name": "Plank",
+        "sets": [
+          "1: 00:01:10"
+        ]
+      }
+    ]
+  }
+]

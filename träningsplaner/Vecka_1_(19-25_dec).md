@@ -1,36 +1,111 @@
 # Träningsplan: Vecka 1 (19 dec - 25 dec)
 
-**Mål för veckan:**
-*   **Löpning:** Genomföra ett första strukturerat långpass.
-*   **Styrka:** Behålla intensiteten och fokusera på tunga basövningar.
+**Fokus:** Etablera maxstyrka (Knäböj) och hålla igång konditionen inför jul.
 
 ---
 
-### **Fredag 19/12: Kondition (Lätt distans)**
-*   **Pass:** 35 minuter lugn löpning i konversationstempo (ca 6:30-7:00 min/km).
-*   **Syfte:** Aktiv återhämtning och bygga bas.
+## Lördag 20/12: Styrka (Max Squat & Plyo) ✅ GENOMFÖRT
+*   **Mål:** Testa 1RM Knäböj.
+*   **Resultat:** 120 kg (PR!).
+*   **Analys:** Fantastiskt resultat, 15-20 kg över förväntan. Fokus framåt blir ryggstabilitet för att klara 135 kg.
 
-### **Lördag 20/12: Vila**
-*   **Fokus:** Total återhämtning.
+### Line Drills
+**Rest:** 30
+* Set 1: 20 s
+* Set 2: 24 s
+* Set 3: 20 s
+* Set 4: 20 s
 
-### **Söndag 21/12: Kondition (Långpass)**
-*   **Pass:** **8 km** på löpband. Håll ett lugnt, jämnt tempo (ca 7:00-7:30 min/km).
-*   **Syfte:** Bygga uthållighet.
+### Squat (Barbell)
+**Rest:** 180
+* Set 1: 10 reps @ 20 kg
+* Set 2: 5 reps @ 50 kg
+* Set 3: 3 reps @ 60 kg
+* Set 4: 2 reps @ 80 kg
+* Set 5: 1 rep @ 90 kg
+* Set 6: 1 rep @ 100 kg
+* Set 7: 1 rep @ 105 kg
+* Set 8: 1 rep @ 110 kg
+* Set 9: 1 rep @ 115 kg
+* Set 10: 1 rep @ 120 kg (PR!)
 
-### **Måndag 22/12: Styrka (Underkropp & Plyo)**
-*   **Knäböj:** 5 set x 5 reps @ **87.5 kg**.
-*   **Box Jumps:** 3 set x 5 reps.
-*   **Broad Jumps (Längdhopp):** 3 set x 5 reps (fokus på maximal längd och explosivitet).
-*   **Bulgarian Split Squat:** 3 set x 8 reps/ben @ **25 kg**.
-*   **Hängande knälyft:** 3 set x max reps.
-*   *Syfte:* Öka benstyrka och explosivitet.
+### Box Jump
+**Rest:** 90
+* Set 1: 3 reps
+* Set 2: 3 reps
+* Set 3: 3 reps
 
-### **Tisdag 23/12: Kondition (Intervall)**
-*   **Pass:** 10 min uppvärmning. **6 x 400m** intervaller @ ca 5:00-5:30 min/km tempo. 90 sek joggvila mellan varje. 10 min nedvarvning.
-*   **Syfte:** Höja din konditionsnivå (VO2 max).
+### Lateral Bound
+**Rest:** 60
+* Set 1: 6 reps (Total - 3/side)
+* Set 2: 6 reps
+* Set 3: 6 reps
 
-### **Onsdag 24/12 (Julafton): PLANERAD VILA**
-*   **Fokus:** Njut av dagen.
+### Lying Leg Raise
+**Rest:** 60
+* Set 1: 12 reps
+* Set 2: 12 reps
+* Set 3: 12 reps
 
-### **Torsdag 25/12 (Juldagen): PLANERAD VILA**
-*   **Fokus:** Extra återhämtning.
+---
+
+## Söndag 21/12: Kondition (Långpass) ✅ GENOMFÖRT
+*   **Planerat:** 8 km @ Zon 3 (Aerobic, ~124-141 bpm).
+*   **Utfall:** 8.00 km @ 7:07 min/km. Puls 155 bpm (Medel).
+*   **Analys:** Du låg i **Zon 4 (Anaerobic)** genom passet. Det är ett jättebra tröskelpass, men för ett *långpass* var det för intensivt. Nästa gång, sänk tempot så pulsen landar under 142 bpm.
+
+### Running
+**Rest:** 0
+* Set 1: 8.0 km (Zon 3, ca 7:30 min/km)
+
+---
+
+## Måndag 22/12: Aktiv Återhämtning (Agility & Core)
+*Fokus: Snabba fötter och bålstabilitet.*
+
+### Agility Ladder Drills
+**Rest:** 45
+* Set 1: 5 min (Two-feet in each square - Forward)
+* Set 2: 5 min (Lateral shuffle - Sida till sida)
+* Set 3: 5 min (Icky Shuffle - Koordination)
+* Set 4: 5 min (In-In-Out-Out)
+
+### Plank (Weighted Vest)
+**Rest:** 60
+* Set 1: 45 s (10 kg viktväst)
+* Set 2: 45 s (10 kg viktväst)
+* Set 3: 45 s (10 kg viktväst)
+
+### Stretching (GOWOD)
+**Rest:** 0
+* Set 1: 20 min (Full body flow)
+
+---
+
+## Tisdag 23/12: Kondition (Intervaller)
+*Fokus: VO2-max. 4 min hårt jobb, 2 min vila.*
+
+### Running (Warmup)
+**Rest:** 60
+* Set 1: 10 min (Lugn jogg)
+
+### Running (Intervals 4x4)
+**Rest:** 120
+* Set 1: 4 min (Hög ansträngning)
+* Set 2: 4 min (Hög ansträngning)
+* Set 3: 4 min (Hög ansträngning)
+* Set 4: 4 min (Hög ansträngning)
+
+### Running (Cooldown)
+**Rest:** 0
+* Set 1: 5 min (Nedvarvning)
+
+---
+
+## Onsdag 24/12 (Julafton): Vila
+*Njut av julmaten!*
+
+---
+
+## Torsdag 25/12 (Juldagen): Vila
+*Återhämtning.*
