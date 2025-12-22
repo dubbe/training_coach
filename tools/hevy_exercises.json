@@ -5159,5 +5159,49 @@
   {
     "id": "21bed5ce-9099-4774-a433-046252c9fb81",
     "title": "Rest"
+  },
+  {
+    "id": "7d7ceb06-6043-4b71-809e-fab5bdd20889",
+    "title": "Resultat"
+  },
+  {
+    "id": "c87334c3-4192-4fa7-89ee-2ffde22125d7",
+    "title": "Analys"
+  },
+  {
+    "id": "ee906b0d-0e43-4528-acac-c642c11b8133",
+    "title": "Planerat"
+  },
+  {
+    "id": "31f9c069-0d34-4c52-adc7-0e0c7519b1a9",
+    "title": "Utfall"
+  },
+  {
+    "id": "a475a257-2286-4d18-86ad-a3847f144a39",
+    "title": "Agility Ladder Drills"
+  },
+  {
+    "id": "229c67b3-7a13-455e-998d-c07b220bd583",
+    "title": "Plank (Bodyweight)"
+  },
+  {
+    "id": "861d0886-6a6e-4ee0-b4b7-9e439d5851b8",
+    "title": "Stretching (GOWOD - Recovery Flow)"
+  },
+  {
+    "id": "1c7aff9a-a318-4504-9e0d-3b2415ee72ef",
+    "title": "Running (Warmup)"
+  },
+  {
+    "id": "52e34b58-87d8-4789-a248-e56830a9bd3f",
+    "title": "Running (Intervals 4x4)"
+  },
+  {
+    "id": "f4c1d887-d455-4fa3-925b-514840bf7c44",
+    "title": "Running (Cooldown)"
+  },
+  {
+    "id": "78f7ff61-542b-4619-9ec5-8354b26dc4aa",
+    "title": "Landmine Rotations"
   }
 ]

@@ -5,6 +5,7 @@
 ---
 
 ## Fredag 26/12: Styrka (Upper Body & Pull-up Focus)
+**Tid:** ca 60 min
 *Fokus: Bygga press-styrka och kontroll i dragmomentet.*
 
 ### Line Drills
@@ -47,24 +48,27 @@
 ---
 
 ## Lördag 27/12: Kondition (Easy Run)
+**Tid:** ca 45 min
 *Fokus: Aktiv återhämtning och basuthållighet.*
 
-### Running
+### Treadmill
 **Rest:** 0
 * Set 1: 40 min (Zon 2 - Prattempo)
 
 ---
 
 ## Söndag 28/12: Kondition (Long Run)
+**Tid:** ca 80 min
 *Fokus: Gradvis ökning av distans inför halvmaran.*
 
-### Running
+### Treadmill
 **Rest:** 0
 * Set 1: 10.0 km (Zon 2 - Prattempo, ca 7:30-8:00 min/km på bandet)
 
 ---
 
 ## Måndag 29/12: Styrka (Lower Body & Explosivity)
+**Tid:** ca 70 min
 *Fokus: Kraftutveckling från marken och AGILITY BENCHMARK.*
 
 ### Agility Benchmark: Square Jump Test
@@ -92,6 +96,12 @@
 * Set 2: 10 reps @ 35 kg
 * Set 3: 10 reps @ 35 kg
 
+### Slam Ball Slams
+**Rest:** 60
+* Set 1: 10 reps @ 9 kg
+* Set 2: 10 reps @ 9 kg
+* Set 3: 10 reps @ 9 kg
+
 ### Box Jump
 **Rest:** 90
 * Set 1: 5 reps (Max height, land soft)
@@ -113,17 +123,18 @@
 ---
 
 ## Tisdag 30/12: Kondition (Threshold Run)
+**Tid:** ca 45 min
 *Fokus: Höja mjölksyratröskeln.*
 
-### Running (Warmup)
+### Treadmill (Warmup)
 **Rest:** 60
 * Set 1: 10 min (Easy jog)
 
-### Running (Threshold)
+### Treadmill (Threshold)
 **Rest:** 0
 * Set 1: 20 min (Tempo: 6:00-6:15 min/km - "Bekvämt ansträngande")
 
-### Running (Cooldown)
+### Treadmill (Cooldown)
 **Rest:** 0
 * Set 1: 10 min (Very easy jog/walk)
 

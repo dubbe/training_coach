@@ -60,43 +60,56 @@
 
 ---
 
-## Måndag 22/12: Aktiv Återhämtning (Agility & Core)
-*Fokus: Snabba fötter och bålstabilitet.*
+## Måndag 22/12: Återhämtning & Ryggfokus ✅ GENOMFÖRT
+**Tid:** 19:16 - 19:54 (38 min)
+*   **Utfall:** 10 vändor/övning i stegen. Bålstyrka som superset.
+*   **Analys:** Ryggen kändes "ganska ok". Trots kortare tid i stegen än planerat (ca 1 min/set istället för 3) blev det "sjukt jobbigt" och pulsen gick upp bra. Kvalitén på 10 vändor var bättre än att nöta tid.
 
 ### Agility Ladder Drills
 **Rest:** 45
-* Set 1: 5 min (Two-feet in each square - Forward)
-* Set 2: 5 min (Lateral shuffle - Sida till sida)
-* Set 3: 5 min (Icky Shuffle - Koordination)
-* Set 4: 5 min (In-In-Out-Out)
+* Set 1: 42 s (10 reps - Two-feet)
+* Set 2: 60 s (10 reps - Lateral shuffle)
+* Set 3: 67 s (10 reps - Icky Shuffle)
+* Set 4: 84 s (10 reps - In-In-Out-Out)
 
-### Plank (Weighted Vest)
+## Superset: Core Stability
 **Rest:** 60
-* Set 1: 45 s (10 kg viktväst)
-* Set 2: 45 s (10 kg viktväst)
-* Set 3: 45 s (10 kg viktväst)
 
-### Stretching (GOWOD)
+### Plank (Bodyweight)
 **Rest:** 0
-* Set 1: 20 min (Full body flow)
+* Set 1: 47 s
+* Set 2: 47 s
+* Set 3: 47 s
+
+### Landmine Rotations
+**Rest:** 60
+* Set 1: 20 reps @ 20 kg
+* Set 2: 20 reps @ 20 kg
+* Set 3: 20 reps @ 20 kg
+
+### Stretching (GOWOD - Recovery Flow)
+**Rest:** 0
+* Set 1: 12 min (720 s)
 
 ---
 
 ## Tisdag 23/12: Kondition (Intervaller)
+**Tid:** ca 45 min
 *Fokus: VO2-max. 4 min hårt jobb, 2 min vila.*
+*Obs: Om ryggen fortfarande känns av imorgon, kör intervallerna på cykel eller crosstrainer istället för löpband.*
 
-### Running (Warmup)
+### Treadmill (Warmup)
 **Rest:** 60
 * Set 1: 10 min (Lugn jogg)
 
-### Running (Intervals 4x4)
+### Treadmill (Intervals 4x4)
 **Rest:** 120
 * Set 1: 4 min (Hög ansträngning)
 * Set 2: 4 min (Hög ansträngning)
 * Set 3: 4 min (Hög ansträngning)
 * Set 4: 4 min (Hög ansträngning)
 
-### Running (Cooldown)
+### Treadmill (Cooldown)
 **Rest:** 0
 * Set 1: 5 min (Nedvarvning)
 

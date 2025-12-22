@@ -114,11 +114,28 @@ class ExerciseDB:
         self.save(self.exercises)
 
     def find_by_name(self, name):
+        # Manual mappings for consistency
+        manual_mappings = {
+            "plank (bodyweight)": "plank",
+            "plank (weighted)": "plank",
+        }
+        
+        # Wildcard mappings
+        lower_name = name.lower()
+        if "stretching (gowod" in lower_name:
+            search_name = "stretching"
+        elif lower_name.startswith("running"):
+            search_name = "running"
+        elif lower_name.startswith("treadmill"):
+            search_name = "treadmill"
+        else:
+            search_name = manual_mappings.get(lower_name, lower_name)
+
         for ex in self.exercises:
-            if ex['title'].lower() == name.lower():
+            if ex['title'].lower() == search_name:
                 return ex
         name_map = {ex['title'].lower(): ex for ex in self.exercises}
-        matches = difflib.get_close_matches(name.lower(), name_map.keys(), n=1, cutoff=0.85)
+        matches = difflib.get_close_matches(search_name, name_map.keys(), n=1, cutoff=0.85)
         if matches:
             return name_map[matches[0]]
         return None
